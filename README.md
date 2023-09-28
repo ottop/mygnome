@@ -1,5 +1,5 @@
 # My Gnome Setup
-**Work in progress**
+### Work in progress
 
 My gnome configuration documented.
 
@@ -7,11 +7,14 @@ In this repository, I have a collection of folders with markdown files explainin
 
 This is currently based on gnome 44. 
 
+There are 2 folders
+* Desktop - Configuration on my desktop
+* Laptop - Configuration on my laptop
+
 Index:
 1. Stock settings and desktop config
-2. Dconf modifications
-3. Gnome tweaks
-4. Extensions
+2. Gnome tweaks
+3. Extensions
 
 ## Screenshots of the desktop
 
@@ -20,3 +23,5 @@ Index:
 ![App menu](image-1.png)
 
 ![Overview](image-2.png)
+
+![Some apps running](image-3.png)
