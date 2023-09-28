@@ -1,5 +1,4 @@
 # My Gnome Setup
-### Work in progress
 
 My gnome configuration documented.
 
@@ -9,7 +8,7 @@ This is currently based on gnome 44.
 
 There are 2 folders
 * Desktop - Configuration on my desktop
-* Laptop - Configuration on my laptop
+* Laptop - Configuration on my laptop (currently empty)
 
 Index:
 1. Stock settings and desktop config
